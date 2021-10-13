@@ -1,3 +1,7 @@
+# React Router Vending Machine Exercise
+
+For this exercise, I used React Router to build a vending machine.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
